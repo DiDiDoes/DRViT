@@ -24,7 +24,7 @@ from samplers import RASampler
 import models
 import utils
 
-from dynamic_add import get_test_model
+from dynamic_proj import get_test_model
 
 
 def get_args_parser():
